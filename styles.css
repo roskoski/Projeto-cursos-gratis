@@ -40,12 +40,12 @@ img.lado {
 a {
     text-decoration: none;
     font-weight: bold;
-    color: #3a0070;
+    color: #434343;
 }
 
 
 a:hover {
     text-decoration: underline;
-    color: #1a1aff;
+    color: #88888a;
 }
 
