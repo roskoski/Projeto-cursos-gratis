@@ -6,8 +6,6 @@
 
 body {
     background-color: #52a1d8;
-
-
 }
 
 
@@ -49,3 +47,14 @@ a:hover {
     color: #0031ae;
 }
 
+.container {
+  display: flex;
+  justify-content: center; /* Centers horizontally */
+  align-items: center; /* Centers vertically */
+  height: 200px; /* Or whatever height is needed.  This is crucial for vertical centering */
+}
+
+.container__imagens {
+  max-width: 100%; /* Prevents image from overflowing */
+  max-height: 100%; /* Prevents image from overflowing */
+}
