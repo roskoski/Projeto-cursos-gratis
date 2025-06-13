@@ -71,15 +71,15 @@ a:hover {
   text-align: center; 
 }
 
-.container {
+.header-container {
   display: flex;
-  justify-content: center; 
+  justify-content: center;
   align-items: center;
   height: 200px; 
   width: 200px; 
-  background-color: lightgray;
+  background-color: lightblue; 
 }
 
-.container h1 {
-   text-align: center;
+.header-container h1 {
+  text-align: center;
 }
